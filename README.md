@@ -26,8 +26,8 @@ https://forums.raspberrypi.com/viewtopic.php?t=373028
 Download and install the Yaru theme packages:
 
 ```bash
-wget https://github.com/wobbo/yaru-themes-debian-trixie/releases/download/v1/yaru-theme-gtk_25.04.1-0ubuntu1_all.deb
 wget https://github.com/wobbo/yaru-themes-debian-trixie/releases/download/v1/yaru-theme-gnome-shell_25.04.1-0ubuntu1_all.deb
+wget https://github.com/wobbo/yaru-themes-debian-trixie/releases/download/v1/yaru-theme-gtk_25.04.1-0ubuntu1_all.deb
 wget https://github.com/wobbo/yaru-themes-debian-trixie/releases/download/v1/yaru-theme-icon_25.04.1-0ubuntu1_all.deb
 wget https://github.com/wobbo/yaru-themes-debian-trixie/releases/download/v1/yaru-theme-sound_25.04.1-0ubuntu1_all.deb
 wget https://github.com/wobbo/yaru-themes-debian-trixie/releases/download/v1/yaru-theme-unity_25.04.1-0ubuntu1_all.deb
