@@ -15,12 +15,13 @@ More information about the issue can be found here:
 * [FIX: Yaru theme .deb for Raspberry Pi OS (Debian 13, GNOME 48)](https://forums.raspberrypi.com/viewtopic.php?t=393000#p2344104)
 
 ## Included packages
-
-* GTK: [yaru-theme-gtk_25.04.1-0ubuntu1_all.deb](https://github.com/wobbo/yaru-themes-debian-trixie/releases/download/v1/yaru-theme-gtk_25.04.1-0ubuntu1_all.deb)
-* SHELL: [yaru-theme-gnome-shell_25.04.1-0ubuntu1_all.deb](https://github.com/wobbo/yaru-themes-debian-trixie/releases/download/v1/yaru-theme-gnome-shell_25.04.1-0ubuntu1_all.deb)
-* ICON: [yaru-theme-icon_25.04.1-0ubuntu1_all.deb](https://github.com/wobbo/yaru-themes-debian-trixie/releases/download/v1/yaru-theme-icon_25.04.1-0ubuntu1_all.deb)
-* SOUND: [yaru-theme-sound_25.04.1-0ubuntu1_all.deb](https://github.com/wobbo/yaru-themes-debian-trixie/releases/download/v1/yaru-theme-sound_25.04.1-0ubuntu1_all.deb)
-* UNITY: [yaru-theme-unity_25.04.1-0ubuntu1_all.deb](https://github.com/wobbo/yaru-themes-debian-trixie/releases/download/v1/yaru-theme-unity_25.04.1-0ubuntu1_all.deb)
+* [gnome-auto-yaru.sh](https://raw.githubusercontent.com/wobbo/yaru-themes-debian-trixie/main/gnome-auto-yaru_2025-10-07.sh)
+* [gnome-auto-yaru.service](https://raw.githubusercontent.com/wobbo/yaru-themes-debian-trixie/main/gnome-auto-yaru_2025-10-07.service)
+* GTK [yaru-theme-gtk_25.04.1-0ubuntu1_all.deb](https://github.com/wobbo/yaru-themes-debian-trixie/releases/download/v1/yaru-theme-gtk_25.04.1-0ubuntu1_all.deb)
+* SHELL [yaru-theme-gnome-shell_25.04.1-0ubuntu1_all.deb](https://github.com/wobbo/yaru-themes-debian-trixie/releases/download/v1/yaru-theme-gnome-shell_25.04.1-0ubuntu1_all.deb)
+* ICON [yaru-theme-icon_25.04.1-0ubuntu1_all.deb](https://github.com/wobbo/yaru-themes-debian-trixie/releases/download/v1/yaru-theme-icon_25.04.1-0ubuntu1_all.deb)
+* SOUND [yaru-theme-sound_25.04.1-0ubuntu1_all.deb](https://github.com/wobbo/yaru-themes-debian-trixie/releases/download/v1/yaru-theme-sound_25.04.1-0ubuntu1_all.deb)
+* UNITY [yaru-theme-unity_25.04.1-0ubuntu1_all.deb](https://github.com/wobbo/yaru-themes-debian-trixie/releases/download/v1/yaru-theme-unity_25.04.1-0ubuntu1_all.deb)
 
 ## Install (direct download)
 
