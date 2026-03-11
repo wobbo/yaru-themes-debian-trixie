@@ -16,11 +16,11 @@ More information about the issue can be found here:
 
 ## Included packages
 
-* [yaru-theme-gtk](https://github.com/wobbo/yaru-themes-debian-trixie/releases/download/v1/yaru-theme-gtk_25.04.1-0ubuntu1_all.deb)
-* [yaru-theme-gnome-shell](https://github.com/wobbo/yaru-themes-debian-trixie/releases/download/v1/yaru-theme-gnome-shell_25.04.1-0ubuntu1_all.deb)
-* [yaru-theme-icon](https://github.com/wobbo/yaru-themes-debian-trixie/releases/download/v1/yaru-theme-icon_25.04.1-0ubuntu1_all.deb)
-* [yaru-theme-sound](https://github.com/wobbo/yaru-themes-debian-trixie/releases/download/v1/yaru-theme-sound_25.04.1-0ubuntu1_all.deb)
-* [yaru-theme-unity](https://github.com/wobbo/yaru-themes-debian-trixie/releases/download/v1/yaru-theme-unity_25.04.1-0ubuntu1_all.deb)
+* GTK: [yaru-theme-gtk_25.04.1-0ubuntu1_all.deb](https://github.com/wobbo/yaru-themes-debian-trixie/releases/download/v1/yaru-theme-gtk_25.04.1-0ubuntu1_all.deb)
+* SHELL: [yaru-theme-gnome-shell_25.04.1-0ubuntu1_all.deb](https://github.com/wobbo/yaru-themes-debian-trixie/releases/download/v1/yaru-theme-gnome-shell_25.04.1-0ubuntu1_all.deb)
+* ICON: [yaru-theme-icon_25.04.1-0ubuntu1_all.deb](https://github.com/wobbo/yaru-themes-debian-trixie/releases/download/v1/yaru-theme-icon_25.04.1-0ubuntu1_all.deb)
+* SOUND: [yaru-theme-sound_25.04.1-0ubuntu1_all.deb](https://github.com/wobbo/yaru-themes-debian-trixie/releases/download/v1/yaru-theme-sound_25.04.1-0ubuntu1_all.deb)
+* UNITY: [yaru-theme-unity_25.04.1-0ubuntu1_all.deb](https://github.com/wobbo/yaru-themes-debian-trixie/releases/download/v1/yaru-theme-unity_25.04.1-0ubuntu1_all.deb)
 
 ## Install (direct download)
 
