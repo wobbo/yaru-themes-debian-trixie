@@ -52,6 +52,7 @@ or
 ```bash
 sudo dpkg -i yaru-theme-*.deb
 ```
+![Debian Trixie Yaru theme](https://wobbo.org/screenshots/20251020_bug_01.png)
 
 ## Tested on
 
