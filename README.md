@@ -7,6 +7,8 @@ This causes visual issues in the desktop environment.
 
 This repository provides rebuilt Yaru theme packages that work correctly with the GNOME version used in Debian Trixie.
 
+Download: https://github.com/wobbo/debian-yaru/releases/tag/v1
+
 ## Problem description
 
 More information about the issue can be found here:
@@ -15,24 +17,24 @@ More information about the issue can be found here:
 * [FIX: Yaru theme .deb for Raspberry Pi OS (Debian 13, GNOME 48)](https://forums.raspberrypi.com/viewtopic.php?t=393000#p2344104)
 
 ## Included packages
-* [gnome-auto-yaru.sh](https://raw.githubusercontent.com/wobbo/yaru-themes-debian-trixie/main/gnome-auto-yaru_2025-10-07.sh)
-* [gnome-auto-yaru.service](https://raw.githubusercontent.com/wobbo/yaru-themes-debian-trixie/main/gnome-auto-yaru_2025-10-07.service)
-* GTK [yaru-theme-gtk_25.04.1-0ubuntu1_all.deb](https://github.com/wobbo/yaru-themes-debian-trixie/releases/download/v1/yaru-theme-gtk_25.04.1-0ubuntu1_all.deb)
-* SHELL [yaru-theme-gnome-shell_25.04.1-0ubuntu1_all.deb](https://github.com/wobbo/yaru-themes-debian-trixie/releases/download/v1/yaru-theme-gnome-shell_25.04.1-0ubuntu1_all.deb)
-* ICON [yaru-theme-icon_25.04.1-0ubuntu1_all.deb](https://github.com/wobbo/yaru-themes-debian-trixie/releases/download/v1/yaru-theme-icon_25.04.1-0ubuntu1_all.deb)
-* SOUND [yaru-theme-sound_25.04.1-0ubuntu1_all.deb](https://github.com/wobbo/yaru-themes-debian-trixie/releases/download/v1/yaru-theme-sound_25.04.1-0ubuntu1_all.deb)
-* UNITY [yaru-theme-unity_25.04.1-0ubuntu1_all.deb](https://github.com/wobbo/yaru-themes-debian-trixie/releases/download/v1/yaru-theme-unity_25.04.1-0ubuntu1_all.deb)
+* [gnome-auto-yaru.sh](https://raw.githubusercontent.com/wobbo/debian-yaru/main/gnome-auto-yaru_2025-10-07.sh)
+* [gnome-auto-yaru.service](https://raw.githubusercontent.com/wobbo/debian-yaru/main/gnome-auto-yaru_2025-10-07.service)
+* GTK [yaru-theme-gtk_25.04.1-0ubuntu1_all.deb](https://github.com/wobbo/debian-yaru/releases/download/v1/yaru-theme-gtk_25.04.1-0ubuntu1_all.deb)
+* SHELL [yaru-theme-gnome-shell_25.04.1-0ubuntu1_all.deb](https://github.com/wobbo/debian-yaru/releases/download/v1/yaru-theme-gnome-shell_25.04.1-0ubuntu1_all.deb)
+* ICON [yaru-theme-icon_25.04.1-0ubuntu1_all.deb](https://github.com/wobbo/debian-yaru/releases/download/v1/yaru-theme-icon_25.04.1-0ubuntu1_all.deb)
+* SOUND [yaru-theme-sound_25.04.1-0ubuntu1_all.deb](https://github.com/wobbo/debian-yaru/releases/download/v1/yaru-theme-sound_25.04.1-0ubuntu1_all.deb)
+* UNITY [yaru-theme-unity_25.04.1-0ubuntu1_all.deb](https://github.com/wobbo/debian-yaru/releases/download/v1/yaru-theme-unity_25.04.1-0ubuntu1_all.deb)
 
 ## Install (direct download)
 
 Download and install the Yaru theme packages:
 
 ```bash
-wget https://github.com/wobbo/yaru-themes-debian-trixie/releases/download/v1/yaru-theme-gnome-shell_25.04.1-0ubuntu1_all.deb
-wget https://github.com/wobbo/yaru-themes-debian-trixie/releases/download/v1/yaru-theme-gtk_25.04.1-0ubuntu1_all.deb
-wget https://github.com/wobbo/yaru-themes-debian-trixie/releases/download/v1/yaru-theme-icon_25.04.1-0ubuntu1_all.deb
-wget https://github.com/wobbo/yaru-themes-debian-trixie/releases/download/v1/yaru-theme-sound_25.04.1-0ubuntu1_all.deb
-wget https://github.com/wobbo/yaru-themes-debian-trixie/releases/download/v1/yaru-theme-unity_25.04.1-0ubuntu1_all.deb
+wget https://github.com/wobbo/debian-yaru/releases/download/v1/yaru-theme-gnome-shell_25.04.1-0ubuntu1_all.deb
+wget https://github.com/wobbo/debian-yaru/releases/download/v1/yaru-theme-gtk_25.04.1-0ubuntu1_all.deb
+wget https://github.com/wobbo/debian-yaru/releases/download/v1/yaru-theme-icon_25.04.1-0ubuntu1_all.deb
+wget https://github.com/wobbo/debian-yaru/releases/download/v1/yaru-theme-sound_25.04.1-0ubuntu1_all.deb
+wget https://github.com/wobbo/debian-yaru/releases/download/v1/yaru-theme-unity_25.04.1-0ubuntu1_all.deb
 
 sudo apt install ./yaru-theme-*.deb
 ```
@@ -62,4 +64,4 @@ Original Yaru theme:
 https://github.com/ubuntu/yaru
 
 Packaging fix for Debian Trixie:
-https://github.com/wobbo/yaru-themes-debian-trixie
+[https://github.com/wobbo/yaru-themes-debian-trixie](https://github.com/wobbo/debian-yaru/releases/tag/v1)
